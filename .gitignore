@@ -1,0 +1,16 @@
+# Secrets
+*.pem
+.env
+openclaw.json
+
+# Browser data
+browser/*/user-data/
+
+# Node
+node_modules/
+
+# Media
+media/
+
+# Sessions
+sessions/
