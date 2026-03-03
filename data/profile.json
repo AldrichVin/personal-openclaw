@@ -1,0 +1,557 @@
+{
+  "name": "Aldrich Vincent",
+  "email": "aldrichvin040205@gmail.com",
+  "phone": "0480 607 563",
+  "location": "Melbourne, VIC, Australia",
+  "workingRights": "Full Australian working rights",
+  "positioning": "Data Analyst & Scientist",
+  "links": {
+    "portfolio": "https://personal-project-eight-gamma.vercel.app/",
+    "linkedin": "https://www.linkedin.com/in/aldrich-vincent-4463b2355/",
+    "github": "https://github.com/AldrichVin"
+  },
+  "education": [
+    {
+      "institution": "Monash University",
+      "location": "Melbourne",
+      "degree": "Bachelor of Computer Science",
+      "gpa": "3.81/4.0",
+      "graduationDate": "Nov 2025"
+    },
+    {
+      "institution": "Monash College",
+      "location": "Jakarta",
+      "degree": "Diploma of Computer Science",
+      "gpa": "4.0/4.0",
+      "graduationDate": "Nov 2023"
+    }
+  ],
+  "technicalSkills": {
+    "languages": [
+      "Python",
+      "SQL",
+      "JavaScript"
+    ],
+    "dataAnalysis": [
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "ETL Pipelines",
+      "Data Wrangling",
+      "Exploratory Data Analysis (EDA)"
+    ],
+    "databases": [
+      "MongoDB",
+      "Oracle SQL",
+      "PostgreSQL (via Supabase)",
+      "Firebase (Firestore)"
+    ],
+    "webDevelopment": [
+      "HTML",
+      "CSS",
+      "React",
+      "Flask",
+      "Tailwind CSS",
+      "JavaScript",
+      "Vite",
+      "TypeScript"
+    ],
+    "tools": [
+      "RStudio",
+      "Tableau",
+      "Jupyter Notebook",
+      "Power BI",
+      "Git/GitHub",
+      "Docker",
+      "Vega-Lite"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Veve Clothing",
+      "location": "Jakarta",
+      "role": "Data Analyst Intern (Operations & Sales)",
+      "period": "Jan 2023 - Dec 2023",
+      "bullets": [
+        "Designed and maintained Excel-based data models and dashboards to analyse sales performance, inventory turnover, and demand patterns.",
+        "Automated stock and sales tracking workflows using Excel formulas and structured datasets, reducing manual processing time and improving reporting accuracy.",
+        "Analysed historical sales and inventory data to identify inefficiencies and optimise replenishment decisions, contributing to improved stock availability.",
+        "Leveraged social media and campaign performance data to evaluate marketing effectiveness and inform targeting strategies."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Data Visualization of Australia's Weather",
+      "institution": "Monash University",
+      "period": "Jun 2025 - Dec 2025",
+      "url": "https://alie0025.github.io/DV2_Final/",
+      "skills": [
+        "R",
+        "ETL",
+        "Vega-Lite",
+        "GIS",
+        "Data Visualization"
+      ],
+      "bullets": [
+        "Built a lightweight ETL pipeline to extract public climate and GIS datasets, clean and transform data using R, and load curated datasets for analysis.",
+        "Built interactive analytical dashboards using Vega-Lite and Vega, combining geospatial and time-series visualisations.",
+        "Enabled exploratory data analysis through cross-filtering, parameter controls, and interactive tooltips to surface insights.",
+        "Analysed environmental trends including bushfire hotspots and koala habitat distribution using high-resolution spatial data."
+      ],
+      "bestFor": [
+        "ETL/visualization roles",
+        "Data analysis roles",
+        "Government/environmental roles"
+      ],
+      "copyPaste": "my Australia Weather Visualization dashboard where I processed GIS and climate datasets, built interactive analytical dashboards using Vega-Lite, and analyzed environmental trends including bushfire hotspots using high-resolution spatial data"
+    },
+    {
+      "name": "MonEquip Data Warehousing",
+      "institution": "Monash University",
+      "period": "Jun 2025 - Dec 2025",
+      "url": null,
+      "skills": [
+        "Power BI",
+        "SQL",
+        "ETL",
+        "Star Schema",
+        "Data Warehousing",
+        "SCD Type 2"
+      ],
+      "bullets": [
+        "Designed an end-to-end data warehouse using a star schema with fact and dimension tables.",
+        "Cleaned and validated data through ETL processes, resolving duplicates, pricing errors, and date anomalies.",
+        "Implemented SCD Type 2 and temporal modelling to preserve historical pricing and attribute changes.",
+        "Performed advanced SQL analytics using ROLLUP, CUBE, and window functions to analyse revenue and seasonality.",
+        "Built a Power BI dashboard and analytical poster to communicate insights."
+      ],
+      "bestFor": [
+        "Power BI/SQL roles",
+        "Data warehouse roles",
+        "Business intelligence roles"
+      ],
+      "copyPaste": "my MonEquip Data Warehousing project, where I designed star-schema data warehouses, performed advanced SQL analytics using ROLLUP, CUBE, and window functions, and built comprehensive Power BI dashboards to communicate insights"
+    },
+    {
+      "name": "NBA Player Ranking Dashboard",
+      "institution": "Monash University",
+      "period": "Feb 2025 - Dec 2025",
+      "url": null,
+      "skills": [
+        "Flask",
+        "R",
+        "MongoDB",
+        "JavaScript",
+        "Docker",
+        "Statistical Modeling",
+        "PCA"
+      ],
+      "bullets": [
+        "Built an interactive NBA analytics dashboard using Flask, R, MongoDB, and JavaScript.",
+        "Designed a statistical ranking model using z-score normalization, PCA, and weighted metrics.",
+        "Automated R-based ETL pipelines to ingest and process live NBA data.",
+        "Deployed the application using Docker, Git, and Agile practices."
+      ],
+      "bestFor": [
+        "Full-stack analytics roles",
+        "Statistical modeling roles",
+        "Sports analytics"
+      ],
+      "copyPaste": "my NBA Player Ranking system where I automated R-based ETL pipelines to ingest live data, designed a statistical ranking model using z-score normalization and PCA, and deployed the application using Docker"
+    },
+    {
+      "name": "DataPraktis Marketplace Platform",
+      "institution": "Personal",
+      "period": "Nov 2025 - Present",
+      "url": "https://datapraktis-g54aricz6-aldricjs-projects.vercel.app",
+      "skills": [
+        "Next.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Full-stack Development",
+        "Supabase"
+      ],
+      "bullets": [
+        "Building a full-stack marketplace using Next.js, TypeScript, and PostgreSQL connecting SMBs with data analysts.",
+        "Designed analyst-client matching logic, role-based access control, and project workflows.",
+        "Integrated secure escrow-style payments via Midtrans API and developed admin tools for platform monitoring."
+      ],
+      "bestFor": [
+        "Tech/SaaS roles",
+        "Full-stack roles",
+        "Platform/marketplace roles"
+      ],
+      "copyPaste": "my DataPraktis marketplace platform where I am building a full-stack solution connecting SMBs with data analysts using Next.js, TypeScript, and PostgreSQL, with role-based access control and payment integration"
+    },
+    {
+      "name": "Personal Portfolio",
+      "institution": "Personal",
+      "period": "Dec 2025 - Present",
+      "url": "https://personal-project-eight-gamma.vercel.app/",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS v4",
+        "Three.js",
+        "Framer Motion",
+        "GSAP"
+      ],
+      "bullets": [
+        "Developed a high-performance portfolio using React, TypeScript, Vite, and Tailwind CSS v4, featuring 3D scenes built with Three.js (React + Three Fiber).",
+        "Implemented scroll-driven animations with Framer Motion, GSAP, ScrollTrigger, and Lenis.",
+        "Built reusable UI components and optimised responsiveness, accessibility, and performance across devices."
+      ],
+      "bestFor": [
+        "Frontend/creative roles",
+        "Web development roles"
+      ],
+      "copyPaste": "my personal portfolio featuring 3D scenes with Three.js, scroll-driven animations with Framer Motion and GSAP, and responsive UI components built with React and TypeScript"
+    },
+    {
+      "name": "LLM Evaluation Playground",
+      "institution": "Personal",
+      "period": "Dec 2025 - Present",
+      "url": null,
+      "skills": [
+        "Data Collection",
+        "Metrics Analysis",
+        "Data Visualization",
+        "Statistical Comparison"
+      ],
+      "bullets": [
+        "Built a comprehensive LLM evaluation platform with experiment tracking, metrics analysis, and multi-dimensional quality assessment.",
+        "Designed and implemented data collection pipelines tracking 7+ performance metrics (latency, TTFT, tokens/sec, token splits).",
+        "Developed interactive data visualizations including 6-axis radar charts for quality comparison across accuracy, relevance, conciseness, creativity, format, and reasoning dimensions.",
+        "Automated metrics calculation and comparative analysis across 3 LLM models, revealing speed-quality tradeoffs through data-driven insights."
+      ],
+      "bestFor": [
+        "Metrics/evaluation roles",
+        "Data analysis roles",
+        "AI/ML roles"
+      ],
+      "copyPaste": "my LLM Evaluation Playground where I designed data collection pipelines tracking 7+ performance metrics, developed 6-axis radar charts for quality comparison, and automated comparative analysis across 3 LLM models"
+    },
+    {
+      "name": "Crypto Pulse",
+      "institution": "Personal",
+      "period": "2025",
+      "url": "https://github.com/AldrichVin/crypto-pulse",
+      "skills": [
+        "Python",
+        "Flask",
+        "scikit-learn",
+        "Tweepy",
+        "TextBlob",
+        "NLP",
+        "React",
+        "CoinGecko API"
+      ],
+      "bullets": [
+        "Built a cryptocurrency portfolio tracker with live prices from CoinGecko API, with retry logic and rate-limit handling.",
+        "Implemented Twitter/X sentiment analysis using Tweepy and TextBlob NLP to gauge market mood per coin.",
+        "Developed ML-based price predictions using scikit-learn linear regression on 24-hour historical data.",
+        "Created a fantasy league system with virtual $10,000 starting funds and P&L tracking.",
+        "Built configurable price alerts and a React frontend served via Flask."
+      ],
+      "bestFor": [
+        "Finance/fintech roles",
+        "Data science roles",
+        "ML/AI roles"
+      ],
+      "copyPaste": "my Crypto Pulse project where I built a cryptocurrency portfolio tracker with sentiment analysis using Tweepy and TextBlob NLP, ML-based price predictions using scikit-learn, and a fantasy league gamification system"
+    },
+    {
+      "name": "MonashMates",
+      "institution": "Macathon 2025 Hackathon",
+      "period": "2025",
+      "url": "https://github.com/AldrichVin/MonashMates",
+      "skills": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Firebase",
+        "Android"
+      ],
+      "bullets": [
+        "Built an Android peer mentorship app at Macathon 2025 hackathon connecting Monash students with mentors.",
+        "Integrated Firebase Authentication, Firestore, Realtime Database, and Storage for full backend.",
+        "Implemented real-time in-app chat and user profile matching.",
+        "Collaborated in a 4-person team under hackathon time constraints."
+      ],
+      "bestFor": [
+        "Mobile development roles",
+        "Team collaboration showcase"
+      ],
+      "copyPaste": "MonashMates, a peer mentorship Android app I built at Macathon 2025 with a 4-person team using Kotlin, Jetpack Compose, and Firebase for real-time chat and user matching"
+    },
+    {
+      "name": "WhatsApp AI Assistant (Andi)",
+      "institution": "Personal",
+      "period": "2025 - Present",
+      "url": "https://github.com/AldrichVin/WhatsappAssistant",
+      "skills": [
+        "Node.js",
+        "Claude API",
+        "Google OAuth 2.0",
+        "Gmail API",
+        "Calendar API",
+        "AWS EC2",
+        "Browser Automation"
+      ],
+      "bullets": [
+        "Built a WhatsApp-based AI assistant powered by Claude API with multi-skill architecture.",
+        "Integrated Google Gmail and Calendar APIs via OAuth 2.0 for email management and scheduling.",
+        "Implemented browser automation with Chromium for real-world task completion.",
+        "Deployed on AWS EC2 with multi-user SaaS architecture and per-user workspace isolation."
+      ],
+      "bestFor": [
+        "AI/ML roles",
+        "Software engineering roles",
+        "Cloud/DevOps roles"
+      ],
+      "copyPaste": "my WhatsApp AI Assistant where I built a multi-skill AI agent using Claude API, integrated Google Gmail and Calendar APIs via OAuth 2.0, and deployed on AWS EC2 with multi-user workspace isolation"
+    },
+    {
+      "name": "VeveClothing E-commerce Store",
+      "institution": "Personal (for internship employer)",
+      "period": "2025 - Present",
+      "url": "https://github.com/AldrichVin/VeveClothing",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Supabase",
+        "Framer Motion",
+        "Tailwind CSS",
+        "Vite"
+      ],
+      "bullets": [
+        "Built a full e-commerce storefront for Veve Clothing with product browsing, shopping cart, and admin panel.",
+        "Integrated Supabase as backend for product catalog and categories.",
+        "Implemented persistent cart using React Context API with localStorage.",
+        "Created immersive hero video section and scroll-animated navbar with Framer Motion."
+      ],
+      "bestFor": [
+        "Frontend roles",
+        "E-commerce roles",
+        "Retail/e-commerce roles"
+      ],
+      "copyPaste": "the VeveClothing e-commerce store I built for my internship employer using React, TypeScript, and Supabase, featuring product browsing, persistent shopping cart, and an admin panel"
+    },
+    {
+      "name": "Community Oracle Network (RECEIPTS)",
+      "institution": "Personal",
+      "period": "2025",
+      "url": "https://github.com/AldrichVin/CommunityOracleNetwork",
+      "skills": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Solana Web3.js",
+        "Wallet Adapter",
+        "Tailwind CSS"
+      ],
+      "bullets": [
+        "Built a Web3 prediction market DApp on Solana where users stake tokens on YES/NO market positions.",
+        "Integrated Solana wallet connection and on-chain transaction UX.",
+        "Designed reputation scoring system based on prediction accuracy with leaderboard."
+      ],
+      "bestFor": [
+        "Web3/blockchain roles",
+        "Frontend roles"
+      ],
+      "copyPaste": "my Community Oracle Network, a Web3 prediction market DApp on Solana with wallet integration, token staking mechanics, and on-chain reputation scoring"
+    },
+    {
+      "name": "HOV Corporation (3D Interactive Experience)",
+      "institution": "Personal",
+      "period": "2025",
+      "url": "https://github.com/AldrichVin/HOV-Corporation",
+      "skills": [
+        "Three.js",
+        "JavaScript",
+        "3D Modeling",
+        "CSS Effects"
+      ],
+      "bullets": [
+        "Created an immersive 3D web experience with holographic UI and interactive character models.",
+        "Built Three.js scenes from scratch with custom geometries, particle systems, and orbit animations.",
+        "Designed CRT scanline, glitch, and vignette visual effects using pure CSS."
+      ],
+      "bestFor": [
+        "Creative/frontend roles",
+        "3D/WebGL roles"
+      ],
+      "copyPaste": "HOV Corporation, an immersive 3D web experience I built with Three.js featuring holographic UI, interactive character models, and custom visual effects"
+    },
+    {
+      "name": "Retro Party Games Arcade",
+      "institution": "Personal",
+      "period": "2025",
+      "url": "https://github.com/AldrichVin/retrogames",
+      "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Game Design"
+      ],
+      "bullets": [
+        "Built a browser-based party games hub with retro CRT arcade aesthetic.",
+        "Implemented a multi-mode social deduction game (Word, Question, Drawing modes) with 6-phase state machine.",
+        "Designed pass-and-play multiplayer UX for 2-4 players with score tracking across rounds."
+      ],
+      "bestFor": [
+        "Creative/game dev roles",
+        "Frontend roles"
+      ],
+      "copyPaste": "my Retro Party Games Arcade, a browser-based multiplayer game hub with a social deduction game featuring 3 game modes and a 6-phase state machine"
+    },
+    {
+      "name": "LandingLab (Sky Gallery)",
+      "institution": "Personal",
+      "period": "2025 - Present",
+      "url": "https://github.com/AldrichVin/LandingLab",
+      "skills": [
+        "React",
+        "TypeScript",
+        "React Three Fiber",
+        "Three.js",
+        "Framer Motion",
+        "Zustand",
+        "Tailwind CSS"
+      ],
+      "bullets": [
+        "Built an interactive Sky Gallery portfolio using React Three Fiber for 3D cloud-layered backgrounds.",
+        "Implemented animated page transitions with Framer Motion and Locomotive Scroll.",
+        "Used Zustand for global view state management across home, entering, exiting, and viewing states."
+      ],
+      "bestFor": [
+        "Creative/frontend roles",
+        "3D/WebGL roles"
+      ],
+      "copyPaste": "LandingLab, an interactive Sky Gallery I built with React Three Fiber for 3D backgrounds, Framer Motion for animated transitions, and Zustand for state management"
+    },
+    {
+      "name": "Otsuka - Personal AI Agent (OpenClaw)",
+      "institution": "Personal",
+      "period": "2026 - Present",
+      "url": "https://github.com/AldrichVin/personal-openclaw",
+      "skills": [
+        "OpenClaw",
+        "Claude API",
+        "AWS EC2",
+        "WhatsApp Integration",
+        "SerpAPI",
+        "Browser Automation",
+        "systemd",
+        "Cron Scheduling"
+      ],
+      "bullets": [
+        "Built and deployed a 24/7 personal AI agent on AWS EC2 using OpenClaw framework with Claude Sonnet 4.6.",
+        "Integrated WhatsApp as the primary interface for automated workflows, monitoring, and research tasks.",
+        "Developed custom skill modules: job application tracker with tailored cover letter generation, TCC Coffee brand monitoring with sentiment analysis, and graphic tee market scouting.",
+        "Implemented headless Chrome browser automation, SerpAPI web search, and cron-based scheduling for automated daily/weekly tasks.",
+        "Designed multi-skill architecture with persistent memory, JSON-based data storage, and Sonnet subagent delegation for complex tasks."
+      ],
+      "bestFor": [
+        "AI/ML roles",
+        "Software engineering roles",
+        "Cloud/DevOps roles",
+        "Automation roles"
+      ],
+      "copyPaste": "Otsuka, my personal AI agent running 24/7 on AWS EC2 using OpenClaw and Claude API, with WhatsApp integration for automated job tracking, brand monitoring, and research workflows"
+    }
+  ],
+  "leadership": [
+    {
+      "organization": "Bina Tunas Bangsa School",
+      "role": "OSIS (Student Council)",
+      "period": "Jan 2021 - Dec 2023",
+      "bullets": [
+        "Demonstrated Project Management by coordinating student-led initiatives (school events, community-service projects, academic competitions), delivering each on time and within scope while fostering teamwork.",
+        "Acted as a liaison between students and school administration, representing student concerns and contributing to decision-making.",
+        "Exercised Leadership by directing a team of 10 peers to plan and execute a charity donation drive for homeless individuals, achieving the fundraising goal ahead of schedule."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "name": "Top 10 Academic Excellence Award",
+      "institution": "Bina Tunas Bangsa School",
+      "description": "Recognized among the top 10 highest-performing International Baccalaureate (IB) students"
+    },
+    {
+      "name": "Principal's Merit Award",
+      "institution": "Monash College",
+      "description": "Awarded for outstanding academic performance and exemplary conduct"
+    }
+  ],
+  "projectSelectionRules": {
+    "Power BI/SQL roles": [
+      "MonEquip Data Warehousing",
+      "Data Visualization of Australia's Weather"
+    ],
+    "Full-stack analytics": [
+      "NBA Player Ranking Dashboard",
+      "DataPraktis Marketplace Platform"
+    ],
+    "Metrics/evaluation": [
+      "LLM Evaluation Playground",
+      "MonEquip Data Warehousing"
+    ],
+    "Finance/fintech": [
+      "Crypto Pulse",
+      "MonEquip Data Warehousing"
+    ],
+    "Retail/e-commerce": [
+      "VeveClothing E-commerce Store",
+      "MonEquip Data Warehousing"
+    ],
+    "ETL/data engineering": [
+      "Data Visualization of Australia's Weather",
+      "NBA Player Ranking Dashboard",
+      "MonEquip Data Warehousing"
+    ],
+    "Frontend/web dev": [
+      "Personal Portfolio",
+      "LandingLab (Sky Gallery)",
+      "DataPraktis Marketplace Platform"
+    ],
+    "AI/ML roles": [
+      "LLM Evaluation Playground",
+      "WhatsApp AI Assistant (Andi)",
+      "Crypto Pulse",
+      "Otsuka - Personal AI Agent (OpenClaw)"
+    ],
+    "Software engineering": [
+      "WhatsApp AI Assistant (Andi)",
+      "DataPraktis Marketplace Platform",
+      "NBA Player Ranking Dashboard",
+      "Otsuka - Personal AI Agent (OpenClaw)"
+    ],
+    "Software/data/AI": [
+      "MonEquip Data Warehousing",
+      "LLM Evaluation Playground",
+      "WhatsApp AI Assistant (Andi)",
+      "DataPraktis Marketplace Platform",
+      "Otsuka - Personal AI Agent (OpenClaw)"
+    ],
+    "Web3/blockchain": [
+      "Community Oracle Network (RECEIPTS)"
+    ],
+    "Creative/3D/frontend": [
+      "Personal Portfolio",
+      "LandingLab (Sky Gallery)",
+      "HOV Corporation (3D Interactive Experience)"
+    ],
+    "Mobile development": [
+      "MonashMates"
+    ],
+    "Hackathon/teamwork": [
+      "MonashMates"
+    ],
+    "Game development": [
+      "Retro Party Games Arcade"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "applications": [
+    {
+      "id": 1,
+      "company": "Spotlight Retail Group",
+      "role": "CRM & Loyalty Analyst",
+      "dateApplied": null,
+      "platform": null,
+      "status": "Applied",
+      "salary": null,
+      "url": null,
+      "coverLetterFile": "SpotlightRetailGroup_CRMAnalyst_CoverLetter.txt",
+      "notes": "Emphasized SQL, Power BI, customer analytics, Veve retail experience"
+    },
+    {
+      "id": 2,
+      "company": "Viridian Financial Group",
+      "role": "Data Quality Engineer",
+      "dateApplied": null,
+      "platform": null,
+      "status": "Applied",
+      "salary": null,
+      "url": null,
+      "coverLetterFile": "ViridianFinancialGroup_DataQualityEngineer_CoverLetter.txt",
+      "notes": "Emphasized SQL data validation, Python automation, Excel proficiency, data integrity"
+    },
+    {
+      "id": 3,
+      "company": "City of Casey",
+      "role": "Customer Experience Technical Specialist",
+      "dateApplied": null,
+      "platform": null,
+      "status": "Applied",
+      "salary": "$99,920 - $108,913 Band 6 + super",
+      "url": null,
+      "coverLetterFile": "CityOfCasey_CustomerExperienceTechnicalSpecialist_CoverLetter.txt",
+      "notes": "Emphasized Python/JavaScript/HTML, Power BI dashboards, VoC program management"
+    },
+    {
+      "id": 4,
+      "company": "Sharp & Carter",
+      "role": "Financial Modeller",
+      "dateApplied": null,
+      "platform": null,
+      "status": "Applied",
+      "salary": null,
+      "url": null,
+      "coverLetterFile": "SharpAndCarter_FinancialModeller_CoverLetter.txt",
+      "notes": "Contact: Danielle Bower - dbower@sharpandcarter.com.au. Power BI model migration from Excel"
+    },
+    {
+      "id": 5,
+      "company": "Smartgroup Corporation",
+      "role": "Analytics Engineer",
+      "dateApplied": null,
+      "platform": null,
+      "status": "Applied",
+      "salary": null,
+      "url": null,
+      "coverLetterFile": "SmartgroupCorporation_AnalyticsEngineer_CoverLetter.txt",
+      "notes": "Contact: Emily Tocu-Garcia. Requires 3+ years but strong technical fit"
+    },
+    {
+      "id": 6,
+      "company": "VIDA Services",
+      "role": "Data Analyst",
+      "dateApplied": null,
+      "platform": null,
+      "status": "Applied",
+      "salary": null,
+      "url": null,
+      "coverLetterFile": null,
+      "notes": null
+    }
+    {
+      "id": 7,
+      "company": "Finity",
+      "role": "Analyst - Software, Data, AI Solutions",
+      "dateApplied": "2025-07-19",
+      "platform": null,
+      "status": "Applied",
+      "salary": null,
+      "url": null,
+      "coverLetterFile": "Finity_Analyst_CoverLetter.txt",
+      "notes": "Emphasized MonEquip data warehouse (SQL, Power BI), WhatsApp AI Assistant (Claude API, AWS, OAuth), Otsuka personal AI agent (OpenClaw). Strong technical fit for AI-enabled solutions role."
+    }
+  ]
+}

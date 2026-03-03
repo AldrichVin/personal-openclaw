@@ -1,6 +1,8 @@
 # TCC Coffee - Client Context
 
-**Owner:** Aldrich's uncle
+**Owner/Leadership:** Edward Teonadi
+**LinkedIn:** https://www.linkedin.com/in/edwardteonadi
+**Previous Company:** Cold Crafter (founder's previous venture)
 **Website:** tcccoffee.com
 **Industry:** B2B specialty coffee manufacturing
 **Location:** Jakarta, Indonesia
